@@ -1,4 +1,4 @@
-/*Styling for whole page*/
+/*whole page*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Styling for header*/
+/*header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,7 +29,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/*Styling for navbar*/
+/*navbar*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -77,7 +77,7 @@ p {
     margin-left: 25px;
 }
 
-/*Styling the content div*/
+/*content div*/
 .content {
     width: 75%;
     display: inline-block;
@@ -102,7 +102,7 @@ p {
     font-size: 36px; 
 }
 
-/*Styling the benefits div*/
+/*benefits div*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -130,7 +130,7 @@ p {
     max-width: 150px;
 }
 
-/*Styling the footer*/
+/*footer*/
 footer {
     padding: 30px;
     clear: both;
